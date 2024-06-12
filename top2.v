@@ -12,7 +12,7 @@
     //SW[1] = mostra camera
 
     // SW[8]: reseta cor de pintura para preto
-    // SW[9]: reseta a memoria
+    // SW[9]: reseta a memoriaee
 
    // VGA
    output [7:0] VGA_B,
