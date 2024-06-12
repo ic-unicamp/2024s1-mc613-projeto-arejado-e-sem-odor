@@ -11,3 +11,6 @@ Projeto em uma placa FPGA DECSOC-1 em que foi implementado um programa semelhant
 
 
 A tela de pintura é guardada em uma memória implementada na placa, e tem suporte para 512 cores diferentes, variando os valores R, G e B da cor de 0 a 224 em incrementos de 32.
+
+
+O arquivo principal é o top2.
